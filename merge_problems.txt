@@ -1,0 +1,6 @@
+here is a file
+that spans several lines
+it would be a terrible shame
+if multiple programmers were
+to edit this file
+and cause a bunch of merge conflicts
