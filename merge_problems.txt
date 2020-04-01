@@ -1,8 +1,9 @@
+as wise programmer otherguy always says:
 here is a file
 that spans several lines
 it would be a terrible shame
 if multiple programmers
-like myself
+like myself or otherguy for example
 were
 to edit this file
 and cause a bunch of merge conflicts
