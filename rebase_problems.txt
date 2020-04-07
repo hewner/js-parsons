@@ -5,4 +5,4 @@
 5. Even if those changes
 6. happened after yours
 7. in our pedestrian timestream.
-
+8. Though more often, you just forgot to pull that morning.
