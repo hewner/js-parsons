@@ -1,7 +1,8 @@
 1. rebasing is like creating
-2. an alternative universe
+2. an ALTERNATE UNIVERSE
 3. where you pulled before
 4. you made your changes.
 5. Even if those changes
 6. happened after yours
 7. in our pedestrian timestream.
+
